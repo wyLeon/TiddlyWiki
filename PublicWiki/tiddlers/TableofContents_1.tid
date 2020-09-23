@@ -2,11 +2,11 @@ caption: 目录
 created: 20200923020253666
 creator: Leonw
 list-after: $:/core/ui/SideBar/Open
-modified: 20200923030209333
+modified: 20200923082342182
 modifier: Leonw
-tags: $:/tags/SideBar Index
-title: Table of Contents
-tmap.id: 2ce90c63-eb67-4762-8514-982457c322e5
+tags: $:/tags/SideBar
+title: TableofContents
+tmap.id: 88486aff-f2b9-4266-ab58-a795f6094df3
 type: text/vnd.tiddlywiki
 
 <div class="tc-table-of-contents">

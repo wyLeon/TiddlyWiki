@@ -1,10 +1,12 @@
 author: bimlas
 core-version: >=5.1.18
 created: 20200605095823896
+creator: Leonw
 dependents: 
 description: Locator: Discover and search by context
 list: README/README README/macros README/TIPS README/CHANGELOG
-modified: 20200605095823896
+modified: 20200923074102083
+modifier: Leonw
 plugin-type: plugin
 source: https://gitlab.com/bimlas/tw5-locator
 title: $:/plugins/bimlas/locator

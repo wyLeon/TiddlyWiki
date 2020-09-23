@@ -1,0 +1,18 @@
+{
+    "created": "20200923031102802",
+    "creator": "Leonw",
+    "title": "Draft of 'TableOfContents' by Leonw",
+    "bag": "default",
+    "modified": "20200923082334393",
+    "modifier": "Leonw",
+    "caption": "{{$:/language/SideBar/Contents/Caption}}",
+    "list": "HelloThere Learning [[Working with TiddlyWiki]] [[Customise TiddlyWiki]] Features Languages Editions Plugins Platforms Reference Community About",
+    "list-after": "$:/core/ui/SideBar/Open",
+    "revision": "2",
+    "tags": "$:/tags/SideBar",
+    "text": "<div class=\"tc-table-of-contents\">\n\n<<toc-selective-expandable 'TableOfContents'>>\n\n</div>",
+    "tmap.id": "4e845a96-dc91-419f-bc41-e9a5edf50057",
+    "type": "text/vnd.tiddlywiki",
+    "draft.title": "TableOfContents",
+    "draft.of": "TableOfContents"
+}
