@@ -1,0 +1,13 @@
+{
+    "created": "20200923084035882",
+    "creator": "Leonw",
+    "title": "Reading 13-14",
+    "bag": "default",
+    "modified": "20200924030621335",
+    "modifier": "Leonw",
+    "revision": "0",
+    "tags": "[[Financial Report Analysis]]",
+    "text": "!!Example 3\n折价、溢价债券Interest income的对比\n\n!!Example 4 \n*pooling method的概念\n*Equity method下对利润表的影响\n*比例相同情况下，equity method与proportionate method的equity相同\n*IFRS与gaap下，是否对SPE并表\n\n!!Example 5\nEquity method下对B/S的影响，总资产、总负债、权益怎么变化\nMinority interest的计算方法——（交易对价/比例）*（1-比例）\n交易对价/比例-标的公司Net Asset=溢价\n\n!!Example 6\n*Held to maturity的carrying value以amortised cost计量，即Historical cost + Interest ocurred - Coupon Payment\n* 交易对价的三个部分：book/carrying value of net assets + FV appreciation +Goodwill\n* Investment科目余额=期初值+adjusted NI*%-Dividend*%\n*Adjusted net income如果有fair value appreciation，说明当期折旧低估了，需要将低估的折旧金额从net income递减:(Amortisation of excess price over PP&E's book value)\n* Goodwill impairment loss \n**IFRS：goodwill impairment loss=①carrying value of cash-generating units-②recoverable amount of cash-generating units；①大于②，即减值发生\n**GAAP：两步法。\n***第一步比较reporting unit的fair value即carrying value;\n***如fair value更小，进入第二步减值计算；Impairment loss=Goodwill - implied goodwill。\n***Implied goodwill 即以当前市场价格再次收购标的资产计算出的implied goodwil =reporting unit's fair value - identifiable net asset.\n\n",
+    "tmap.id": "8b7d74b2-2f33-41c7-9b93-9fd513dffd17",
+    "type": "text/vnd.tiddlywiki"
+}
