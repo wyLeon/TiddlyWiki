@@ -55,6 +55,12 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://wiki.onetwo.ren/#:Draft%2520of%2520&apos;Reading%252013:Business%2520Combination&apos;%2520by%2520Leonw</loc>
+		<lastmod>2020-09-23</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://wiki.onetwo.ren/#:Draft%2520of%2520&apos;新条目%25201&apos;%2520by%2520Leonw</loc>
 		<lastmod>2020-09-23</lastmod>
 		<changefreq>monthly</changefreq>
@@ -104,6 +110,18 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:Reading%252013-14</loc>
+		<lastmod>2020-09-23</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:Reading%252013:%2520Business%2520Combination</loc>
+		<lastmod>2020-09-23</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:Reading%252013:Business%2520Combination</loc>
 		<lastmod>2020-09-23</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
