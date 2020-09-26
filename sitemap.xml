@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://wiki.onetwo.ren/#:CFA%2520Level%2520II</loc>
-		<lastmod>2020-09-24</lastmod>
+		<lastmod>2020-09-26</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://wiki.onetwo.ren/#:Draft%2520of%2520&apos;CFA%2520Level%2520II&apos;%2520by%2520Leonw</loc>
-		<lastmod>2020-09-24</lastmod>
+		<loc>https://wiki.onetwo.ren/#:Draft%2520of%2520&apos;Reading%252013:%2520Business%2520Combination&apos;%2520by%2520Leonw</loc>
+		<lastmod>2020-09-26</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -27,6 +27,12 @@
 	<url>
 		<loc>https://wiki.onetwo.ren/#:Reading%252013:%2520Business%2520Combination</loc>
 		<lastmod>2020-09-24</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:Reading%252014:%2520Employee%2520Benefit</loc>
+		<lastmod>2020-09-26</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
