@@ -1,0 +1,11 @@
+created: 20200926124524186
+creator: Leonw
+modified: 20200926124826369
+modifier: Leonw
+tags: [[Financial Report Analysis]]
+title: Reading 14: Employee Benefit
+tmap.id: 7b1ed3b1-d191-4c3d-812f-7a2088bc6bd6
+type: text/vnd.tiddlywiki
+
+!! Example 7
+Plan asset(end)=Plan Asset(begin)+Contribution+__''Actual Return''__-Benefit Paid
