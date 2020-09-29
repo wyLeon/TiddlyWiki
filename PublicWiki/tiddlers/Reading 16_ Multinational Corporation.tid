@@ -1,13 +1,13 @@
 created: 20200929020004857
 creator: Leonw
-modified: 20200929033859392
+modified: 20200929064718125
 modifier: Leonw
 tags: [[Financial Report Analysis]]
 title: Reading 16: Multinational Corporation
 tmap.id: be5ff193-c19a-4281-948f-9c339e11595d
 type: text/vnd.tiddlywiki
 
-!存货记账方式选择在汇率变动下对财务指标的影响
+!''存货记账方式选择在汇率变动下对财务指标的影响''
 * FIFO、LIFO、本币、外币，在贬值/升值情况下对inventory、gross profit margin等的影响。——（以子公司为比较主体，子公司货币贬值：HR大于CR，子公司货币升值：HR小于CR）。
 
 !汇兑敞口（exposure to translation）
