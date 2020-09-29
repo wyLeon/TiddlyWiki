@@ -1,9 +1,11 @@
 created: 20200929020004857
 creator: Leonw
-modified: 20200929073653607
+draft.of: Reading 16: Multinational Corporation
+draft.title: Reading 16: Multinational Corporation
+modified: 20200929073704243
 modifier: Leonw
 tags: [[Financial Report Analysis]]
-title: Reading 16: Multinational Corporation
+title: Draft of 'Reading 16: Multinational Corporation' by Leonw
 tmap.id: be5ff193-c19a-4281-948f-9c339e11595d
 type: text/vnd.tiddlywiki
 
@@ -14,7 +16,7 @@ type: text/vnd.tiddlywiki
 * Balance sheet exposure to translation: net asset = total asset - total liability. 
 **如果exposure大于0，相当于资产，外币升值——账面资产数字上升——有利；
 **反之exposure小于0，相当于负债，外币升值——账面负债数字上升——不利。
-*对于temporal method，只算net monetary asset/liability.
+*对于temporal method，只算net ''monetary'' asset/liability.
 !两方法的选择及转换B/S及I/S的对比
 !!Current rate method: 
 # Local Currency = Funtional Currency - Reporting Currency: Current Rate Method（子公司独立性强）
