@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
+		<loc>https://wiki.onetwo.ren/#:ABO模式</loc>
+		<lastmod>2020-09-29</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://wiki.onetwo.ren/#:CFA%2520Level%2520II</loc>
 		<lastmod>2020-09-26</lastmod>
 		<changefreq>monthly</changefreq>
@@ -87,6 +93,12 @@
 	<url>
 		<loc>https://wiki.onetwo.ren/#:课后题</loc>
 		<lastmod>2020-09-23</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:顺德红岗科技城</loc>
+		<lastmod>2020-09-29</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
