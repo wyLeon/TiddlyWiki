@@ -55,6 +55,12 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://wiki.onetwo.ren/#:Road%2520To%2520Changsha</loc>
+		<lastmod>2020-10-07</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://wiki.onetwo.ren/#:TableofContents</loc>
 		<lastmod>2020-09-23</lastmod>
 		<changefreq>monthly</changefreq>
@@ -103,8 +109,20 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://wiki.onetwo.ren/#:落户</loc>
+		<lastmod>2020-10-07</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://wiki.onetwo.ren/#:课后题</loc>
 		<lastmod>2020-09-23</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:购房政策</loc>
+		<lastmod>2020-10-07</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
