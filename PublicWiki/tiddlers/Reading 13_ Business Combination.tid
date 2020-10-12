@@ -1,6 +1,6 @@
 created: 20200923084035882
 creator: Leonw
-modified: 20200924030440027
+modified: 20201012070259196
 modifier: Leonw
 tags: [[Financial Report Analysis]]
 title: Reading 13: Business Combination
@@ -32,4 +32,6 @@ Minority interest的计算方法——（交易对价/比例）*（1-比例）
 ***第一步比较reporting unit的fair value即carrying value;
 ***如fair value更小，进入第二步减值计算；Impairment loss=Goodwill - implied goodwill。
 ***Implied goodwill 即以当前市场价格再次收购标的资产计算出的implied goodwil =reporting unit's fair value - identifiable net asset.
+
+
 
