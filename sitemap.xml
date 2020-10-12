@@ -13,18 +13,6 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://wiki.onetwo.ren/#:Draft%2520of%2520&apos;Reading%252013:%2520Business%2520Combination&apos;%2520by%2520Leonw</loc>
-		<lastmod>2020-09-26</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.5</priority>
-	</url>
-	<url>
-		<loc>https://wiki.onetwo.ren/#:Draft%2520of%2520&apos;Reading%252016:%2520Multinational%2520Corporation&apos;%2520by%2520Leonw</loc>
-		<lastmod>2020-09-29</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.5</priority>
-	</url>
-	<url>
 		<loc>https://wiki.onetwo.ren/#:Financial%2520Report%2520Analysis</loc>
 		<lastmod>2020-09-24</lastmod>
 		<changefreq>monthly</changefreq>
@@ -38,7 +26,7 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:Reading%252013:%2520Business%2520Combination</loc>
-		<lastmod>2020-09-24</lastmod>
+		<lastmod>2020-10-12</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -50,7 +38,7 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:Reading%252016:%2520Multinational%2520Corporation</loc>
-		<lastmod>2020-09-29</lastmod>
+		<lastmod>2020-10-12</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
