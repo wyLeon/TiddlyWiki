@@ -1,6 +1,6 @@
 created: 20200929020004857
 creator: Leonw
-modified: 20201012072832524
+modified: 20201013023107303
 modifier: Leonw
 tags: [[Financial Report Analysis]]
 title: Reading 16: Multinational Corporation
@@ -32,3 +32,7 @@ IFRS：需restate，再按照当前汇率水平合并至母公司报表；
 # 先根据GPI（每年的通胀率调整指标），调整为inflation adjusted index
 
 # 将inflation-adjusted index按当前汇率计算。
+
+!! ''Net sales growth''
+* Net sale growth=volume growth+price growth+foreign exchange rate change
+* 如果要比较sustainable sales growth，销售量和销售价格想家增长最多的才是可持续增长最高的（外汇变动所获得得增长不可持续）
