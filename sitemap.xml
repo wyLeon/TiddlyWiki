@@ -2,13 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://wiki.onetwo.ren/#:ABO模式</loc>
-		<lastmod>2020-09-29</lastmod>
+		<lastmod>2020-10-19</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:CFA%2520Level%2520II</loc>
 		<lastmod>2020-09-26</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:Career</loc>
+		<lastmod>2020-10-19</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:Draft%2520of%2520&apos;日常工作&apos;%2520by%2520Leonw</loc>
+		<lastmod>2020-10-19</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:Draft%2520of%2520&apos;日常问题&apos;%2520by%2520Leonw</loc>
+		<lastmod>2020-10-19</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -91,14 +109,14 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://wiki.onetwo.ren/#:日常工作</loc>
-		<lastmod>2020-09-23</lastmod>
+		<loc>https://wiki.onetwo.ren/#:日常问题</loc>
+		<lastmod>2020-10-19</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:旧改</loc>
-		<lastmod>2020-09-24</lastmod>
+		<lastmod>2020-10-19</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
