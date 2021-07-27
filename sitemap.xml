@@ -31,6 +31,12 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://wiki.onetwo.ren/#:Draft%2520of%2520&apos;社交&apos;%2520by%2520Leonw</loc>
+		<lastmod>2021-07-27</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://wiki.onetwo.ren/#:Financial%2520Report%2520Analysis</loc>
 		<lastmod>2020-09-24</lastmod>
 		<changefreq>monthly</changefreq>
@@ -109,8 +115,20 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://wiki.onetwo.ren/#:三十的手机</loc>
+		<lastmod>2021-07-27</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://wiki.onetwo.ren/#:复建部分监管资金时点</loc>
 		<lastmod>2020-09-24</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:我的错误清单</loc>
+		<lastmod>2021-07-27</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -129,6 +147,12 @@
 	<url>
 		<loc>https://wiki.onetwo.ren/#:申论</loc>
 		<lastmod>2020-12-07</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:罗名江的担当</loc>
+		<lastmod>2021-07-27</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -153,6 +177,12 @@
 	<url>
 		<loc>https://wiki.onetwo.ren/#:课后题</loc>
 		<lastmod>2020-09-23</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:陈丽竹的语气</loc>
+		<lastmod>2021-07-27</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
