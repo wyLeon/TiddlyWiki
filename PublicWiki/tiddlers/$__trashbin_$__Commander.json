@@ -1,0 +1,8 @@
+{
+    "title": "$:/Commander",
+    "created": "20190212051316149",
+    "icon": "$:/plugins/kookma/commander/images/file-alt",
+    "modified": "20200324074719052",
+    "type": "text/vnd.tiddlywiki",
+    "text": "\\import [all[shadows+tiddlers]tag[$:/tags/Commander/Macro]]\n{{$:/plugins/kookma/commander/search/ui}}\n<!-- Create the search filter based on searchbox and selective operation (if active) -->\n<$vars searchTerms={{{ [<searchboxTid>get[text]minlength{$:/plugins/kookma/commander/config/minlength}]~[[$:/errorCode:-23500]] }}}  pattern=\"^\\[\"><!-- this part checks the combo search and selective ops-->\n<$set name=\"filtertext\"   filter=\"[<searchTerms>regexp<pattern>]\" value=\"[subfilter<searchTerms>]\" emptyValue=\"[!is[system]search<searchTerms>]\">\n<$set name=\"searchfilter\" filter=\"[<selectiveOpsTid>get[text]match[yes]]\"  \n\tvalue=\"[subfilter<filtertext>!prefix[$:/temp/commander]]+[tag<workingTag>]\" emptyValue=\"[subfilter<filtertext>!prefix[$:/temp/commander]]\" >\n<small style=\"margin-left:17ch;\"><i><$count filter=\"[subfilter<filtertext>!prefix[$:/temp/commander]!is[missing]]\" /> matches </i></small>\n\n<!-- Display search results and let selective operation -->\n<<commander-slider title:\"$:/plugins/kookma/commander/search/selection\" default:\"open\">>\n\n<!-- Display operation UIs-->\n<<tabs \"[all[shadows+tiddlers]tag[$:/tags/Commander]!has[draft.of]]\" default:\"$:/plugins/kookma/commander/tiddler/ui\">>\n\n</$set>\n</$set>\n<$vars>\n\n---\n\n<<commander-slider title:\"$:/plugins/kookma/commander/log/ui\">>\n"
+}
