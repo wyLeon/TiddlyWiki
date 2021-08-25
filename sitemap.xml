@@ -79,8 +79,14 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://wiki.onetwo.ren/#:Road%2520To%2520Changsha</loc>
-		<lastmod>2020-10-07</lastmod>
+		<loc>https://wiki.onetwo.ren/#:Road%2520to%2520Changsha</loc>
+		<lastmod>2021-08-25</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:Stop%2520Doing%2520List</loc>
+		<lastmod>2021-08-25</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -116,19 +122,19 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:三十的手机</loc>
-		<lastmod>2021-07-28</lastmod>
+		<lastmod>2021-08-25</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:关于趣头条、信也科技的投资选择</loc>
-		<lastmod>2021-07-27</lastmod>
+		<lastmod>2021-08-25</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:吴签的事迹</loc>
-		<lastmod>2021-07-27</lastmod>
+		<lastmod>2021-08-25</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -146,13 +152,7 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:工作</loc>
-		<lastmod>2021-07-27</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.5</priority>
-	</url>
-	<url>
-		<loc>https://wiki.onetwo.ren/#:我需注意的错误清单</loc>
-		<lastmod>2021-07-27</lastmod>
+		<lastmod>2021-08-25</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -176,13 +176,13 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:社交</loc>
-		<lastmod>2021-07-27</lastmod>
+		<lastmod>2021-08-25</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:穷查理宝典</loc>
-		<lastmod>2021-07-29</lastmod>
+		<lastmod>2021-08-25</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -200,7 +200,7 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:罗名江的担当</loc>
-		<lastmod>2021-07-27</lastmod>
+		<lastmod>2021-08-25</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -212,13 +212,13 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:落户</loc>
-		<lastmod>2020-10-07</lastmod>
+		<lastmod>2021-08-25</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:补贴政策</loc>
-		<lastmod>2020-10-22</lastmod>
+		<lastmod>2021-08-25</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -236,7 +236,7 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:陈丽竹的语气</loc>
-		<lastmod>2021-07-27</lastmod>
+		<lastmod>2021-08-25</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
