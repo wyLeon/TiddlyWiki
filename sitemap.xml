@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://wiki.onetwo.ren/#:1.哥达纲领批判</loc>
-		<lastmod>2021-08-27</lastmod>
+		<lastmod>2021-09-06</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -27,12 +27,6 @@
 	<url>
 		<loc>https://wiki.onetwo.ren/#:Career</loc>
 		<lastmod>2020-10-19</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.5</priority>
-	</url>
-	<url>
-		<loc>https://wiki.onetwo.ren/#:Draft%2520of%2520&apos;1.哥达纲领批判&apos;%2520by%2520Leonw</loc>
-		<lastmod>2021-08-27</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
