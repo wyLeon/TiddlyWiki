@@ -31,6 +31,12 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://wiki.onetwo.ren/#:Draft%2520of%2520&apos;刘鹤&apos;%2520by%2520Leonw</loc>
+		<lastmod>2021-12-01</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://wiki.onetwo.ren/#:Draft%2520of%2520&apos;日常工作&apos;%2520by%2520Leonw</loc>
 		<lastmod>2020-10-23</lastmod>
 		<changefreq>monthly</changefreq>
@@ -139,7 +145,19 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://wiki.onetwo.ren/#:中国人民政治协商会议</loc>
+		<lastmod>2021-12-01</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://wiki.onetwo.ren/#:中央军事委员会</loc>
+		<lastmod>2021-12-01</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:人事司</loc>
 		<lastmod>2021-12-01</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
@@ -193,6 +211,60 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://wiki.onetwo.ren/#:国务院办事机构</loc>
+		<lastmod>2021-12-01</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:国务院办公厅</loc>
+		<lastmod>2021-12-01</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:国务院应急管理办公室（国务院总值班室）</loc>
+		<lastmod>2021-12-01</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:国务院直属事业单位</loc>
+		<lastmod>2021-12-01</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:国务院直属机构</loc>
+		<lastmod>2021-12-01</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:国务院直属特设机构</loc>
+		<lastmod>2021-12-01</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:国务院组成成员</loc>
+		<lastmod>2021-12-01</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:国务院组成部门</loc>
+		<lastmod>2021-12-01</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:国务院部委管理的国家局</loc>
+		<lastmod>2021-12-01</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://wiki.onetwo.ren/#:国家机构——宪法</loc>
 		<lastmod>2021-12-01</lastmod>
 		<changefreq>monthly</changefreq>
@@ -207,6 +279,12 @@
 	<url>
 		<loc>https://wiki.onetwo.ren/#:复建部分监管资金时点</loc>
 		<lastmod>2020-09-24</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:孙春兰</loc>
+		<lastmod>2021-12-01</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -229,6 +307,12 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://wiki.onetwo.ren/#:李克强</loc>
+		<lastmod>2021-12-01</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://wiki.onetwo.ren/#:港股打新操作手册</loc>
 		<lastmod>2021-07-27</lastmod>
 		<changefreq>monthly</changefreq>
@@ -241,7 +325,19 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://wiki.onetwo.ren/#:电子政务办公室</loc>
+		<lastmod>2021-12-01</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://wiki.onetwo.ren/#:监察委员会</loc>
+		<lastmod>2021-12-01</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:督查室</loc>
 		<lastmod>2021-12-01</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
@@ -253,8 +349,26 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://wiki.onetwo.ren/#:秘书一局</loc>
+		<lastmod>2021-12-01</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:秘书三局</loc>
+		<lastmod>2021-12-01</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:秘书二局</loc>
+		<lastmod>2021-12-01</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://wiki.onetwo.ren/#:穷查理宝典</loc>
-		<lastmod>2021-08-25</lastmod>
+		<lastmod>2021-12-01</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -283,8 +397,20 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://wiki.onetwo.ren/#:胡春华</loc>
+		<lastmod>2021-12-01</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://wiki.onetwo.ren/#:落户</loc>
 		<lastmod>2021-08-25</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:行政司</loc>
+		<lastmod>2021-12-01</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -313,8 +439,20 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://wiki.onetwo.ren/#:财务室（副司局级）</loc>
+		<lastmod>2021-12-01</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://wiki.onetwo.ren/#:陈丽竹的语气</loc>
 		<lastmod>2021-08-25</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:韩正</loc>
+		<lastmod>2021-12-01</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
