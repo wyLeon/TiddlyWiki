@@ -37,12 +37,6 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://wiki.onetwo.ren/#:Draft%2520of%2520&apos;读书笔记&apos;%2520by%2520Leonw</loc>
-		<lastmod>2021-12-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.5</priority>
-	</url>
-	<url>
 		<loc>https://wiki.onetwo.ren/#:Financial%2520Report%2520Analysis</loc>
 		<lastmod>2021-07-27</lastmod>
 		<changefreq>monthly</changefreq>
@@ -140,7 +134,7 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:中国人民政治协商会议</loc>
-		<lastmod>2021-12-01</lastmod>
+		<lastmod>2021-12-16</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -176,7 +170,7 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:党组织机构——中国共产党章程</loc>
-		<lastmod>2021-12-01</lastmod>
+		<lastmod>2021-12-16</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -194,7 +188,13 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:刘鹤</loc>
-		<lastmod>2021-12-08</lastmod>
+		<lastmod>2021-12-16</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:发展路线</loc>
+		<lastmod>2021-12-16</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -266,7 +266,7 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:国家机构——宪法</loc>
-		<lastmod>2021-12-01</lastmod>
+		<lastmod>2021-12-16</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -284,7 +284,7 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:孙春兰</loc>
-		<lastmod>2021-12-01</lastmod>
+		<lastmod>2021-12-16</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -308,7 +308,7 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:李克强</loc>
-		<lastmod>2021-12-01</lastmod>
+		<lastmod>2021-12-16</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -368,7 +368,13 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:穷查理宝典</loc>
-		<lastmod>2021-12-01</lastmod>
+		<lastmod>2021-12-16</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:笔记及批注</loc>
+		<lastmod>2021-12-16</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -398,7 +404,7 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:胡春华</loc>
-		<lastmod>2021-12-01</lastmod>
+		<lastmod>2021-12-16</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -417,12 +423,6 @@
 	<url>
 		<loc>https://wiki.onetwo.ren/#:补贴政策</loc>
 		<lastmod>2021-08-25</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.5</priority>
-	</url>
-	<url>
-		<loc>https://wiki.onetwo.ren/#:读书笔记</loc>
-		<lastmod>2021-07-27</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -452,7 +452,7 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:韩正</loc>
-		<lastmod>2021-12-01</lastmod>
+		<lastmod>2021-12-16</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -463,8 +463,14 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://wiki.onetwo.ren/#:顾刚</loc>
+		<lastmod>2021-12-16</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://wiki.onetwo.ren/#:马列主义书籍</loc>
-		<lastmod>2021-08-27</lastmod>
+		<lastmod>2021-12-16</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
