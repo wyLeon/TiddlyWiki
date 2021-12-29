@@ -199,6 +199,12 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://wiki.onetwo.ren/#:合伙企业法</loc>
+		<lastmod>2021-12-29</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://wiki.onetwo.ren/#:吴签的事迹</loc>
 		<lastmod>2021-08-25</lastmod>
 		<changefreq>monthly</changefreq>
@@ -308,7 +314,7 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:有限合伙企业、有限责任公司、股份有限公司</loc>
-		<lastmod>2021-12-28</lastmod>
+		<lastmod>2021-12-29</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -320,7 +326,7 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:法条/政策汇编</loc>
-		<lastmod>2021-12-28</lastmod>
+		<lastmod>2021-12-29</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -440,7 +446,7 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:行业词条</loc>
-		<lastmod>2021-12-28</lastmod>
+		<lastmod>2021-12-29</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
