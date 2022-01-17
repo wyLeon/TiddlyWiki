@@ -212,7 +212,7 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:刘鹤</loc>
-		<lastmod>2021-12-28</lastmod>
+		<lastmod>2022-01-13</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -272,7 +272,7 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:国务院组成成员</loc>
-		<lastmod>2021-12-01</lastmod>
+		<lastmod>2022-01-13</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -296,7 +296,7 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:国有企业</loc>
-		<lastmod>2021-12-28</lastmod>
+		<lastmod>2022-01-13</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -314,13 +314,19 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:孙春兰</loc>
-		<lastmod>2021-12-28</lastmod>
+		<lastmod>2022-01-13</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:工作</loc>
 		<lastmod>2021-08-25</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:工作履历</loc>
+		<lastmod>2022-01-13</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -338,7 +344,7 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:李克强</loc>
-		<lastmod>2021-12-28</lastmod>
+		<lastmod>2022-01-13</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -452,7 +458,7 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:胡春华</loc>
-		<lastmod>2021-12-28</lastmod>
+		<lastmod>2022-01-13</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -530,19 +536,13 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:韩正</loc>
-		<lastmod>2021-12-28</lastmod>
+		<lastmod>2022-01-13</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:顾刚</loc>
-		<lastmod>2021-12-28</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.5</priority>
-	</url>
-	<url>
-		<loc>https://wiki.onetwo.ren/#:领导履历</loc>
-		<lastmod>2022-01-12</lastmod>
+		<lastmod>2022-01-13</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
