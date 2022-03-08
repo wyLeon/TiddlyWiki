@@ -7,6 +7,12 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://wiki.onetwo.ren/#:432开发贷</loc>
+		<lastmod>2022-01-21</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://wiki.onetwo.ren/#:Ashore</loc>
 		<lastmod>2021-07-23</lastmod>
 		<changefreq>monthly</changefreq>
@@ -14,7 +20,7 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:CFA%2520Level%2520II</loc>
-		<lastmod>2020-09-26</lastmod>
+		<lastmod>2022-01-19</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -199,6 +205,12 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://wiki.onetwo.ren/#:共益债务</loc>
+		<lastmod>2022-01-21</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://wiki.onetwo.ren/#:关于申论学习的几大建议</loc>
 		<lastmod>2022-01-12</lastmod>
 		<changefreq>monthly</changefreq>
@@ -307,6 +319,12 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://wiki.onetwo.ren/#:墨盒</loc>
+		<lastmod>2022-01-20</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://wiki.onetwo.ren/#:复建部分监管资金时点</loc>
 		<lastmod>2020-09-24</lastmod>
 		<changefreq>monthly</changefreq>
@@ -331,8 +349,26 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://wiki.onetwo.ren/#:开发成本（与会计科目对应）</loc>
+		<lastmod>2022-03-07</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:德豪润达战略部副总的手抖</loc>
+		<lastmod>2022-03-07</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:房地产</loc>
+		<lastmod>2022-03-07</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://wiki.onetwo.ren/#:旧改</loc>
-		<lastmod>2020-10-19</lastmod>
+		<lastmod>2022-03-07</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -349,6 +385,12 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://wiki.onetwo.ren/#:档案借阅流程</loc>
+		<lastmod>2022-01-20</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://wiki.onetwo.ren/#:沟通不是单方面的想当然</loc>
 		<lastmod>2022-01-12</lastmod>
 		<changefreq>monthly</changefreq>
@@ -361,6 +403,12 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://wiki.onetwo.ren/#:流程规范</loc>
+		<lastmod>2022-01-18</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://wiki.onetwo.ren/#:港股打新操作手册</loc>
 		<lastmod>2021-07-27</lastmod>
 		<changefreq>monthly</changefreq>
@@ -369,6 +417,12 @@
 	<url>
 		<loc>https://wiki.onetwo.ren/#:王占峰</loc>
 		<lastmod>2021-12-28</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:用印流程</loc>
+		<lastmod>2022-03-04</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -469,8 +523,14 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://wiki.onetwo.ren/#:行业专题</loc>
+		<lastmod>2022-03-07</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://wiki.onetwo.ren/#:行业词条</loc>
-		<lastmod>2022-01-12</lastmod>
+		<lastmod>2022-02-16</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -483,6 +543,18 @@
 	<url>
 		<loc>https://wiki.onetwo.ren/#:补贴政策</loc>
 		<lastmod>2022-01-12</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:表达欲过强</loc>
+		<lastmod>2022-02-18</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:设备耗材申请</loc>
+		<lastmod>2022-01-20</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
