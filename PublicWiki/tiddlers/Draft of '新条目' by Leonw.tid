@@ -1,0 +1,15 @@
+created: 20220902155224004
+creator: Leonw
+draft.of: 新条目
+draft.title: 新条目
+modified: 20220902155312625
+modifier: Leonw
+tags: 9月3日（周末）
+title: Draft of '新条目' by Leonw
+type: text/vnd.tiddlywiki
+
+<$list filter="[tag[股权投资]]">
+
+ {{!!text}}
+
+</$list>
