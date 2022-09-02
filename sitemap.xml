@@ -7,8 +7,50 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://wiki.onetwo.ren/#:2022年</loc>
+		<lastmod>2022-08-31</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://wiki.onetwo.ren/#:432开发贷</loc>
 		<lastmod>2022-06-22</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:8月</loc>
+		<lastmod>2022-08-31</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:8月31日（工作日）</loc>
+		<lastmod>2022-09-02</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:9月</loc>
+		<lastmod>2022-08-31</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:9月1日（工作日）</loc>
+		<lastmod>2022-09-02</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:9月2日（工作日）</loc>
+		<lastmod>2022-09-02</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:9月3日（周末）</loc>
+		<lastmod>2022-09-02</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -32,7 +74,7 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:Common%2520Sense词条</loc>
-		<lastmod>2022-07-06</lastmod>
+		<lastmod>2022-09-01</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -42,20 +84,14 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://wiki.onetwo.ren/#:Draft%2520of%2520&apos;Common%2520Sense词条&apos;%2520by%2520LeonW</loc>
-		<lastmod>2022-08-01</lastmod>
+		<loc>https://wiki.onetwo.ren/#:Daily%2520Plan%2520and%2520Summary</loc>
+		<lastmod>2022-09-01</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:Draft%2520of%2520&apos;日常工作&apos;%2520by%2520Leonw</loc>
 		<lastmod>2020-10-23</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.5</priority>
-	</url>
-	<url>
-		<loc>https://wiki.onetwo.ren/#:Draft%2520of%2520&apos;第六卷&apos;%2520by%2520LeonW</loc>
-		<lastmod>2022-08-01</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -480,6 +516,18 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://wiki.onetwo.ren/#:每日计划模板（休息日）</loc>
+		<lastmod>2022-09-02</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:每日计划模板（工作日）</loc>
+		<lastmod>2022-09-02</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://wiki.onetwo.ren/#:毛泽东选集</loc>
 		<lastmod>2022-08-01</lastmod>
 		<changefreq>monthly</changefreq>
@@ -589,7 +637,7 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:第六卷</loc>
-		<lastmod>2022-08-01</lastmod>
+		<lastmod>2022-09-01</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -673,7 +721,7 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:读苏联《政治经济学教科书》的谈话</loc>
-		<lastmod>2022-08-01</lastmod>
+		<lastmod>2022-08-11</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
