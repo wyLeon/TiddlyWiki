@@ -1,0 +1,7 @@
+{
+    "title": "$:/Import",
+    "type": "application/json",
+    "plugin-type": "import",
+    "status": "pending",
+    "text": "{\n    \"tiddlers\": {\n        \"Untitled\": {\n            \"title\": \"Untitled\",\n            \"text\": \"mary\"\n        }\n    }\n}"
+}

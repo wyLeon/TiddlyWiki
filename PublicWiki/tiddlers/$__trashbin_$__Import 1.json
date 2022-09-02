@@ -1,0 +1,7 @@
+{
+    "title": "$:/Import",
+    "type": "application/json",
+    "plugin-type": "import",
+    "status": "pending",
+    "text": "{\n    \"tiddlers\": {\n        \"Untitled\": {\n            \"title\": \"Untitled\",\n            \"text\": \"https://tid.li/tw5/plugins.html#ToDoNow\"\n        }\n    }\n}"
+}

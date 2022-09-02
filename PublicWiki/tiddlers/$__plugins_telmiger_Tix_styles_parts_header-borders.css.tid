@@ -1,0 +1,21 @@
+created: 20220122135602214
+creator: Thomas Elmiger
+list-after: $:/plugins/telmiger/Tix/styles/styles.css
+modified: 20220901012028761
+modifier: Leonw
+tags: $:/tags/Stylesheet
+title: $:/plugins/telmiger/Tix/styles/parts/header-borders.css
+type: text/vnd.tiddlywiki
+
+/* Bottom border */
+
+.lox-tiddler .lox-tiddler-header {
+   border-bottom: 1px solid <<colour tiddler-border>>;
+}
+
+
+/* Editor bottom border */
+
+.tc-tiddler-frame:not(.lox-tiddler) .tc-tiddler-title {
+   border-bottom: 1px solid <<colour dirty-indicator>>;
+}

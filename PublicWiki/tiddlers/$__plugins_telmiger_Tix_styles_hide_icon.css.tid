@@ -1,0 +1,12 @@
+created: 20220130134338354
+creator: Thomas Elmiger
+list-after: $:/plugins/telmiger/Tix/styles/styles.css
+modified: 20220901012007634
+modifier: Leonw
+tags: 
+title: $:/plugins/telmiger/Tix/styles/hide/icon.css
+type: text/vnd.tiddlywiki
+
+body .lox-tiddler .lox-tiddler-icon {
+   display: none;
+}
